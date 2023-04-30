@@ -20,6 +20,10 @@ Top ten grossing movies ranked by their total gross revenue, with each movie rep
 
 ![Chart](images/top_10_movies1.png)
 
+The chart shows that the movies with the highest total gross revenue are not necessarily the ones with the highest production budget.
+
+![Compare](images/top_10_.png)
+
 ## Conclusion
 Microsoft's new movie studio represents a major step forward for the company. By entering the film industry, Microsoft has an opportunity to leverage its existing strengths in technology and entertainment to create compelling content and engage audiences in new and exciting ways.
 
@@ -38,8 +42,14 @@ Develop a diverse and inclusive team: this will allow the department to reach th
 Embrace innovative new technologies: this will increase productivity, production and overall quality of the output. Look to embrace new technology and create your own in addition.
 
 ## For more information
-See full analysis in Jupyter Notebook or review this presentation.
+See full analysis in [Jupyter Notebook](code.ipynb) or review this [presentation](Microsoft_Presentation.pdf).
 For additional information please contact John Castro, johncastro2013@gmail.com.
 
 ## Repository Structure
-
+├── dsc-phase-1-project-v2-4
+├── images
+├── .gitignore
+├── README.md
+├── code.ipynb
+├── Microsoft_Presentation.pdf
+└── movie_budgets.csv
