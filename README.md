@@ -11,12 +11,10 @@ This project analyzes film data to provide three recommendation for Microsoft in
 Microsoft may be able to ensure early success by understanding the competition and branding themselves to go with or against the grain.
 
 ## Data Understanding
-Imdb has a large dataset identifying and categorizing aspects of each film. Each film, director, and even team member are assigned a specific ID that associates them with information necessary for futher analysis.
-
-### Data Preparation 
+Data was gathered from various credible sources to gain knowledge of films and their success in the industry. The data showed us film success in terms of gross revenue, domestic and international, and the budgets for these films. The genre of the films were determined to see which genres encompass the top films in the industry.
 
 ## Exploratory Data Analysis 
-Top ten grossing movies ranked by their total gross revenue, with each movie represented by two bars: one for its domestic gross revenue (shown in blue) and one for its international revenue (shown in pale blue).
+**Top ten grossing movies** ranked by their total gross revenue, with each movie represented by two bars: one for its domestic gross revenue (shown in blue) and one for its international revenue (shown in pale blue).
 
 ![Chart](images/top_10_movies1.png)
 
@@ -32,14 +30,19 @@ Some limitaions may include, lack of experience, tough competition, and changing
 
 ## Recommendations
 The analysis leads to three recommendations to success in the industry.
-Establish a clear and compelling brand: Microsoft should position themselves as a studio that produces high-quality content that resonates with audiences around the world. One characteristic should include blockbuster entertainment as the highest-grossing films tend to be big-budget, action-packed blockbusters that appeal to a wide audience.
-Hire experienced professionals: These individuals have the key benefits of expertise, network, and reputation. When navigating a new endevour it is a good idea to have some experience on your side.
-Be patient and persistent: Success is defined in a multitude of ways and it is important to understand your vision of success.
+
+**Establish a clear and compelling brand:** Microsoft should position themselves as a studio that produces high-quality content that resonates with audiences around the world. One characteristic should include blockbuster entertainment as the highest-grossing films tend to be big-budget, action-packed blockbusters that appeal to a wide audience.
+
+**Hire experienced professionals:** These individuals have the key benefits of expertise, network, and reputation. When navigating a new endevour it is a good idea to have some experience on your side.
+
+**Be patient and persistent:** Success is defined in a multitude of ways and it is important to understand your vision of success.
 
 ## Next Steps
-Establish partnerships and collaberations: this will allow the department to grow and learn from individuals and entities in the industry.
-Develop a diverse and inclusive team: this will allow the department to reach the largest audience and increase awareness to the global economy of the industry.
-Embrace innovative new technologies: this will increase productivity, production and overall quality of the output. Look to embrace new technology and create your own in addition.
+**Establish partnerships and collaberations:** this will allow the department to grow and learn from individuals and entities in the industry.
+
+**Develop a diverse and inclusive team:** this will allow the department to reach the largest audience and increase awareness to the global economy of the industry.
+
+**Embrace innovative new technologies:** this will increase productivity, production and overall quality of the output. Look to embrace new technology and create your own in addition.
 
 ## For more information
 See full analysis in [Jupyter Notebook](code.ipynb) or review this [presentation](Microsoft_Presentation.pdf).
